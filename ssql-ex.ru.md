@@ -1,4 +1,4 @@
-# 1 (1)``` 
+# 1 (1)
 ``` sql
 SELECT PC.model, PC.speed, PC.hd
 FROM PC
