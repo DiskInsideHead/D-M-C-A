@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/dih/commissions/signalis_elster/pouch"
+	$bumpmap "models/dih/commissions/signalis_elster/belt_pouch_Normal"
+
+	$lightwarptexture "models/dih/commissions/signalis_elster/shared/toon_all"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongboost 0.5
+	$phongexponent 50
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 1
+}

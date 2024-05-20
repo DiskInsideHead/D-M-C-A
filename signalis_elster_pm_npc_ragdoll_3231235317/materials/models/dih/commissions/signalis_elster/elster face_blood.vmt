@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/dih/commissions/signalis_elster/elster face_blood"
+	$bumpmap "models/dih/commissions/signalis_elster/elster_sp_face_Normal"
+
+	$lightwarptexture "models/dih/commissions/signalis_elster/shared/toon_skin"
+
+	$detail   "models/dih/commissions/signalis_elster/glow/elster_sp_face_Emissive"
+	$detailscale 1 
+	$detailblendmode 5
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 3
+}

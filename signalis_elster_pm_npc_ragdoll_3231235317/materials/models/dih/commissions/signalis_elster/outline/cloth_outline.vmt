@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$basetexture "color/black"
+	$lightwarptexture "models/dih/commissions/signalis_elster/shared/toon_head"
+	$nodecal 1
+}
