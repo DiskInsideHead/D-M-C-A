@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/dih/commissions/signalis_elster/tex_Hair_Noel"
-	$color2 "[0.7 0.7 0.7]"
-	$nodecal 1
-	$lightwarptexture "models/dih/commissions/signalis_elster/shared/toon_head"
-}
